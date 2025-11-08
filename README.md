@@ -10,3 +10,4 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Service showcase
 - Work experience timeline
 - Project gallery
+- Tech stack
