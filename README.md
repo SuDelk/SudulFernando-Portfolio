@@ -9,4 +9,5 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Smooth scroll animations
 - Service showcase
 - Work experience timeline
-- Technologies 
+- Technologies
+- About
