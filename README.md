@@ -12,3 +12,4 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Technologies
 - About myself
 - A nice picture of myself
+- Nice fonts
