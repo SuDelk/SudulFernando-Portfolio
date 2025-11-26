@@ -11,4 +11,3 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Work experience timeline
 - Technologies
 - About myself
-- A nice picture
