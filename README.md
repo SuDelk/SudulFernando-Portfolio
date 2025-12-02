@@ -12,5 +12,4 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Technologies
 - About
 
-
 URL: https://sudelk.github.io/SudulFernando-Portfolio/
