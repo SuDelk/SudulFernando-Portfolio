@@ -9,6 +9,6 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Smooth scroll animations
 - Service showcase
 - Work experience timeline
-- Technologies
+- Technologies i use
 
 URL: https://sudelk.github.io/SudulFernando-Portfolio/
