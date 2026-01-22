@@ -10,6 +10,6 @@ A personal portfolio website for Sudul Fernando, featuring an auto-emailing cont
 - Service showcase
 - Work experience timeline
 - Technologies
-- About us
+- About me
 
 URL: https://sudelk.github.io/SudulFernando-Portfolio/
